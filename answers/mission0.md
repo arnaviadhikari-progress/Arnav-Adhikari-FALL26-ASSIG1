@@ -1,14 +1,13 @@
 # Mission 0: Get the code, the professional way
 
-**Name:**
-**GitHub username:**
+
 arnaviadhikari-progress
 
 ## Evidence
 
 ### `git remote -v`
 ```
-paste here
+
 origin  https://github.com/arnaviadhikari-progress/Arnav-Adhikari-FALL26-ASSIG1.git (fetch)
 origin  https://github.com/arnaviadhikari-progress/Arnav-Adhikari-FALL26-ASSIG1.git (push)
 
@@ -16,7 +15,6 @@ origin  https://github.com/arnaviadhikari-progress/Arnav-Adhikari-FALL26-ASSIG1.
 
 ### `git branch`
 ```
-paste here
 * Assignment1
   main
 
@@ -24,7 +22,6 @@ paste here
 
 ### `git status` before the `.gitignore` fix
 ```
-paste here
 On branch Assignment1
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
